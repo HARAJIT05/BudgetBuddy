@@ -10,7 +10,7 @@
 - **Reports**: Generate detailed financial reports with visual charts, including weekly, monthly, or custom timeframes.
 - **Real-time Insights**: See your spending trends and make informed financial decisions.
 - **Responsive Design**: Access BudgetBuddy from any device – desktop, tablet, or mobile.
-- **Data Security**: All data is securely stored and managed for privacy.
+- **Data Security**: All data is securely stored and managed for privacy..
 
 ## Installation
 
